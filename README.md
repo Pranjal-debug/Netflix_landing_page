@@ -65,7 +65,7 @@ Or upload an image and replace this section with:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/netflix-landing-page-clone.git
+git clone https://github.com/Pranjal-debug/netflix-landing-page.git
 ```
 
 2. Open the project folder.
