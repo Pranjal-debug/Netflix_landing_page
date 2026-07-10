@@ -27,7 +27,7 @@ body .bg{
           rgba(0, 0, 0, 0.9)
         ),
         /* bottom, image */
-        url(bg-img.jpg);
+        url(https://github.com/Pranjal-debug/Netflix_landing_page/blob/main/bg-img.jpg?raw=true);
         background-size: cover;
 }
 .top{  
@@ -288,19 +288,19 @@ select::before{
       /* transition: all 0.3s alter; */
     }
   #a{
-    background-image: url("1.webp");
+    background-image: url("https://github.com/Pranjal-debug/Netflix_landing_page/blob/main/1.webp?raw=true");
   }
   #b{
-    background-image: url("2.webp");
+    background-image: url("https://github.com/Pranjal-debug/Netflix_landing_page/blob/main/2.webp?raw=true");
   }
   #c{
-    background-image: url("3.webp");
+    background-image: url("https://github.com/Pranjal-debug/Netflix_landing_page/blob/main/3.webp?raw=true");
   }
   #d{
-    background-image: url("4.webp");
+    background-image: url("https://github.com/Pranjal-debug/Netflix_landing_page/blob/main/4.webp?raw=true");
   }
   #e{
-    background-image: url("5.webp");
+    background-image: url("https://github.com/Pranjal-debug/Netflix_landing_page/blob/main/5.webp?raw=true");
   }
   .num{
     font-size: 6.3rem;
